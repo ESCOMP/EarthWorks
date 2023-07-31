@@ -1,3 +1,6 @@
+<a href="https://trackgit.com">
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/lkr1la7qi7f6pfe22vel" alt="trackgit-views" />
+</a>
 # earthworks
 Start the earthworks repository based on cesm2_3_beta08
 
